@@ -1,0 +1,1272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-01-13T03:36:55.715+02:00
+  initializedAtString: 2021-01-13T03:28:02.106+02:00
+  entries:
+  - path: Assets\Samples.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples.meta
+    projectPath: Assets\Samples.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\.sample.json
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\.sample.json
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\.sample.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Continuous Move.preset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Continuous Move.preset
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Continuous Move.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Continuous Move.preset.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Continuous Move.preset.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Continuous Move.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Continuous Turn.preset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Continuous Turn.preset
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Continuous Turn.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Continuous Turn.preset.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Continuous Turn.preset.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Continuous Turn.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Input Actions.inputactions
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Input Actions.inputactions
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Input Actions.inputactions
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Input Actions.inputactions.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Input Actions.inputactions.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Input Actions.inputactions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Left Controller.preset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Left Controller.preset
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Left Controller.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Left Controller.preset.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Left Controller.preset.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Left Controller.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Right Controller.preset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Right Controller.preset
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Right Controller.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Right Controller.preset.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Right Controller.preset.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Right Controller.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Snap Turn.preset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Snap Turn.preset
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Snap Turn.preset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input Actions\XRI
+      Default Snap Turn.preset.meta
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Samples\XR Interaction
+      Toolkit\0.10.0-preview.7\Default Input Actions\XRI Default Snap Turn.preset.meta
+    projectPath: Assets\Samples\XR Interaction Toolkit\0.10.0-preview.7\Default Input
+      Actions\XRI Default Snap Turn.preset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\VR Bowling.unity
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Assets\Scenes\VR Bowling.unity
+    projectPath: Assets\Scenes\VR Bowling.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\00dbf93d24d1421594f1d136f525887b
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\00\00dbf93d24d1421594f1d136f525887b
+    projectPath: Library\Artifacts\00\00dbf93d24d1421594f1d136f525887b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1ff0119678d6c69f97da60095e09d7cc
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\1f\1ff0119678d6c69f97da60095e09d7cc
+    projectPath: Library\Artifacts\1f\1ff0119678d6c69f97da60095e09d7cc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3e\3e95b464c297fb2ad792dd13c615d0db
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\3e\3e95b464c297fb2ad792dd13c615d0db
+    projectPath: Library\Artifacts\3e\3e95b464c297fb2ad792dd13c615d0db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\45d89ccec2e85b34a3e13cf854a84470
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\45\45d89ccec2e85b34a3e13cf854a84470
+    projectPath: Library\Artifacts\45\45d89ccec2e85b34a3e13cf854a84470
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\532549399f4c37676f3b184bd6fbb43b
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\53\532549399f4c37676f3b184bd6fbb43b
+    projectPath: Library\Artifacts\53\532549399f4c37676f3b184bd6fbb43b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ad3ca94bfd1f089a7da66b05b0884f0
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\9a\9ad3ca94bfd1f089a7da66b05b0884f0
+    projectPath: Library\Artifacts\9a\9ad3ca94bfd1f089a7da66b05b0884f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\ab9eb2686225a0f1e709c4e8f5377697
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\ab\ab9eb2686225a0f1e709c4e8f5377697
+    projectPath: Library\Artifacts\ab\ab9eb2686225a0f1e709c4e8f5377697
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d202ab643418e2a309696d3ff54e6677
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\d2\d202ab643418e2a309696d3ff54e6677
+    projectPath: Library\Artifacts\d2\d202ab643418e2a309696d3ff54e6677
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\eb2323bc88a011ce95a335834606d014
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\eb\eb2323bc88a011ce95a335834606d014
+    projectPath: Library\Artifacts\eb\eb2323bc88a011ce95a335834606d014
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f0\f095833c226e5db6ce7a1c44110f5081
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\Artifacts\f0\f095833c226e5db6ce7a1c44110f5081
+    projectPath: Library\Artifacts\f0\f095833c226e5db6ce7a1c44110f5081
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitfilelog.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gitfilelog.yaml
+    projectPath: Library\gfu\cache\gitfilelog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Assembly-CSharp-Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Assembly-CSharp-Editor.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\CompilationLog.txt
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.InputSystem.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.InputSystem.dll.hash
+    projectPath: Temp\Unity.InputSystem.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    projectPath: Temp\Unity.InternalAPIEditorBridge.005.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Mathematics.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Mathematics.dll.hash
+    projectPath: Temp\Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Mathematics.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp\Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
+    projectPath: Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Core.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Core.Editor.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Core.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
+    projectPath: Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Searcher.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Searcher.Editor.dll.hash
+    projectPath: Temp\Unity.Searcher.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.ShaderGraph.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.ShaderGraph.Editor.dll.hash
+    projectPath: Temp\Unity.ShaderGraph.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.ShaderGraph.Utilities.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.ShaderGraph.Utilities.dll.hash
+    projectPath: Temp\Unity.ShaderGraph.Utilities.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Subsystem.Registration.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Subsystem.Registration.dll.hash
+    projectPath: Temp\Unity.Subsystem.Registration.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.ARSubsystems.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.ARSubsystems.dll.hash
+    projectPath: Temp\Unity.XR.ARSubsystems.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    projectPath: Temp\Unity.XR.ARSubsystems.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Interaction.Toolkit.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Interaction.Toolkit.dll.hash
+    projectPath: Temp\Unity.XR.Interaction.Toolkit.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Interaction.Toolkit.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Interaction.Toolkit.Editor.dll.hash
+    projectPath: Temp\Unity.XR.Interaction.Toolkit.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.InteractionSubsystems.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.InteractionSubsystems.dll.hash
+    projectPath: Temp\Unity.XR.InteractionSubsystems.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Management.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Management.dll.hash
+    projectPath: Temp\Unity.XR.Management.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Management.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Management.Editor.dll.hash
+    projectPath: Temp\Unity.XR.Management.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Oculus.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Oculus.dll.hash
+    projectPath: Temp\Unity.XR.Oculus.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.Oculus.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.Oculus.Editor.dll.hash
+    projectPath: Temp\Unity.XR.Oculus.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.Editor.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.Features.ConformanceAutomation.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.Features.ConformanceAutomation.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.Features.ConformanceAutomation.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.Features.MockDriver.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.Features.MockDriver.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.Features.MockDriver.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.Features.MockRuntime.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.Features.MockRuntime.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.Features.MockRuntime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.OpenXR.TestHelpers.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.OpenXR.TestHelpers.dll.hash
+    projectPath: Temp\Unity.XR.OpenXR.TestHelpers.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.WindowsMixedReality.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.WindowsMixedReality.dll.hash
+    projectPath: Temp\Unity.XR.WindowsMixedReality.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\Unity.XR.WindowsMixedReality.Editor.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\Unity.XR.WindowsMixedReality.Editor.dll.hash
+    projectPath: Temp\Unity.XR.WindowsMixedReality.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEditor.SpatialTracking.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEditor.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEditor.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEditor.XR.LegacyInputHelpers.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEngine.SpatialTracking.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEngine.SpatialTracking.dll.hash
+    projectPath: Temp\UnityEngine.SpatialTracking.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    projectPath: Temp\UnityEngine.XR.LegacyInputHelpers.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityTempFile-0002482f0ac76a849aadb8e75330e3da
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-0002482f0ac76a849aadb8e75330e3da
+    projectPath: Temp\UnityTempFile-0002482f0ac76a849aadb8e75330e3da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-048f8ed122d32bb48b3368440ac6d31d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-048f8ed122d32bb48b3368440ac6d31d
+    projectPath: Temp\UnityTempFile-048f8ed122d32bb48b3368440ac6d31d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-06c0c24fe3c67ac499eb8d617b3073e3
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-06c0c24fe3c67ac499eb8d617b3073e3
+    projectPath: Temp\UnityTempFile-06c0c24fe3c67ac499eb8d617b3073e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-0c2f71d50d7904d4cb30d3b00403d67f
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-0c2f71d50d7904d4cb30d3b00403d67f
+    projectPath: Temp\UnityTempFile-0c2f71d50d7904d4cb30d3b00403d67f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-0e4f8aa0e1919894fa6ddf341a2553ef
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-0e4f8aa0e1919894fa6ddf341a2553ef
+    projectPath: Temp\UnityTempFile-0e4f8aa0e1919894fa6ddf341a2553ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-10896ceb69657dc45b34bb2bbdd25f42
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-10896ceb69657dc45b34bb2bbdd25f42
+    projectPath: Temp\UnityTempFile-10896ceb69657dc45b34bb2bbdd25f42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-15d27b128eacb1d4f9c4f9679c3d3295
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-15d27b128eacb1d4f9c4f9679c3d3295
+    projectPath: Temp\UnityTempFile-15d27b128eacb1d4f9c4f9679c3d3295
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-165bf8c775f6e714a99befe37d7f8ec5
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-165bf8c775f6e714a99befe37d7f8ec5
+    projectPath: Temp\UnityTempFile-165bf8c775f6e714a99befe37d7f8ec5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-16858edf097163a43b2b66384f32988f
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-16858edf097163a43b2b66384f32988f
+    projectPath: Temp\UnityTempFile-16858edf097163a43b2b66384f32988f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-18a5faf33a8530048a8a95c07249f2d9
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-18a5faf33a8530048a8a95c07249f2d9
+    projectPath: Temp\UnityTempFile-18a5faf33a8530048a8a95c07249f2d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1a0740c6c70f9da4794f542e7e75b9a2
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-1a0740c6c70f9da4794f542e7e75b9a2
+    projectPath: Temp\UnityTempFile-1a0740c6c70f9da4794f542e7e75b9a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1af311d4771477d459197f12e3874fd1
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-1af311d4771477d459197f12e3874fd1
+    projectPath: Temp\UnityTempFile-1af311d4771477d459197f12e3874fd1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1dacd7a8b447a5641b9b4dd9f4a43052
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-1dacd7a8b447a5641b9b4dd9f4a43052
+    projectPath: Temp\UnityTempFile-1dacd7a8b447a5641b9b4dd9f4a43052
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1e853a2c4459b3148bbbc3f69ad39560
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-1e853a2c4459b3148bbbc3f69ad39560
+    projectPath: Temp\UnityTempFile-1e853a2c4459b3148bbbc3f69ad39560
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-2164b9223ab301d4084890d9323d6fb2
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-2164b9223ab301d4084890d9323d6fb2
+    projectPath: Temp\UnityTempFile-2164b9223ab301d4084890d9323d6fb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-22419462bc47733499b3bf40d04ddd07
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-22419462bc47733499b3bf40d04ddd07
+    projectPath: Temp\UnityTempFile-22419462bc47733499b3bf40d04ddd07
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-231c3ac6f60f746438e8f9b39474e7b3
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-231c3ac6f60f746438e8f9b39474e7b3
+    projectPath: Temp\UnityTempFile-231c3ac6f60f746438e8f9b39474e7b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-28b4e558dd33c6c42b08e30e7ad986dc
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-28b4e558dd33c6c42b08e30e7ad986dc
+    projectPath: Temp\UnityTempFile-28b4e558dd33c6c42b08e30e7ad986dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-28e80cd8a3c601743bd81827bdf1218f
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-28e80cd8a3c601743bd81827bdf1218f
+    projectPath: Temp\UnityTempFile-28e80cd8a3c601743bd81827bdf1218f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-2d0631d06142c464fab52d81ca962c11
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-2d0631d06142c464fab52d81ca962c11
+    projectPath: Temp\UnityTempFile-2d0631d06142c464fab52d81ca962c11
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-2f1a289c19422bf418710ad62d8accbb
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-2f1a289c19422bf418710ad62d8accbb
+    projectPath: Temp\UnityTempFile-2f1a289c19422bf418710ad62d8accbb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-327bca840e1a7344ca0e62c7bee85e43
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-327bca840e1a7344ca0e62c7bee85e43
+    projectPath: Temp\UnityTempFile-327bca840e1a7344ca0e62c7bee85e43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-343975288e7b6a947adc89663965616f
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-343975288e7b6a947adc89663965616f
+    projectPath: Temp\UnityTempFile-343975288e7b6a947adc89663965616f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-35397b8d032c358418c2e7526ae58e58
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-35397b8d032c358418c2e7526ae58e58
+    projectPath: Temp\UnityTempFile-35397b8d032c358418c2e7526ae58e58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-36ffbee22736abd4eb423ea6b6468655
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-36ffbee22736abd4eb423ea6b6468655
+    projectPath: Temp\UnityTempFile-36ffbee22736abd4eb423ea6b6468655
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-3ad2cabbdd46c6e4a8d3cf1c8103f675
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-3ad2cabbdd46c6e4a8d3cf1c8103f675
+    projectPath: Temp\UnityTempFile-3ad2cabbdd46c6e4a8d3cf1c8103f675
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-3cadd54f3410a634881147bf984c65a3
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-3cadd54f3410a634881147bf984c65a3
+    projectPath: Temp\UnityTempFile-3cadd54f3410a634881147bf984c65a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-3db4a22c397bdcc40a462989dfda382e
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-3db4a22c397bdcc40a462989dfda382e
+    projectPath: Temp\UnityTempFile-3db4a22c397bdcc40a462989dfda382e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-466e8471f9c5f9c4bbfa69ccd8d34dae
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-466e8471f9c5f9c4bbfa69ccd8d34dae
+    projectPath: Temp\UnityTempFile-466e8471f9c5f9c4bbfa69ccd8d34dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-46aebf2308320fe438a6b02046502667
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-46aebf2308320fe438a6b02046502667
+    projectPath: Temp\UnityTempFile-46aebf2308320fe438a6b02046502667
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-47b1bebcee229ae4da04e964e4cf698d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-47b1bebcee229ae4da04e964e4cf698d
+    projectPath: Temp\UnityTempFile-47b1bebcee229ae4da04e964e4cf698d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-47f89b441e0a0b54b8a3334d011b946a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-47f89b441e0a0b54b8a3334d011b946a
+    projectPath: Temp\UnityTempFile-47f89b441e0a0b54b8a3334d011b946a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-480831688d490cc4fb777559b279a7a7
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-480831688d490cc4fb777559b279a7a7
+    projectPath: Temp\UnityTempFile-480831688d490cc4fb777559b279a7a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-4a4e7f64c439a854e9c71ee201fe6bf0
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-4a4e7f64c439a854e9c71ee201fe6bf0
+    projectPath: Temp\UnityTempFile-4a4e7f64c439a854e9c71ee201fe6bf0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-4d012201d9f5c6546b77cdfe0e493158
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-4d012201d9f5c6546b77cdfe0e493158
+    projectPath: Temp\UnityTempFile-4d012201d9f5c6546b77cdfe0e493158
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-4d6343107eb0fd54485174920e378ede
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-4d6343107eb0fd54485174920e378ede
+    projectPath: Temp\UnityTempFile-4d6343107eb0fd54485174920e378ede
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-505d1e04d7fb7a64a9b8f36322750951
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-505d1e04d7fb7a64a9b8f36322750951
+    projectPath: Temp\UnityTempFile-505d1e04d7fb7a64a9b8f36322750951
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-533b1c84b5210e14ba9cb507ea37937e
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-533b1c84b5210e14ba9cb507ea37937e
+    projectPath: Temp\UnityTempFile-533b1c84b5210e14ba9cb507ea37937e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-53bb0f34af4ce9c43a6b7cab705c8d0a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-53bb0f34af4ce9c43a6b7cab705c8d0a
+    projectPath: Temp\UnityTempFile-53bb0f34af4ce9c43a6b7cab705c8d0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-55ba02c8201defc4a912ae42b294266b
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-55ba02c8201defc4a912ae42b294266b
+    projectPath: Temp\UnityTempFile-55ba02c8201defc4a912ae42b294266b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-5acefc2f5c019744eb6201fed519d272
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-5acefc2f5c019744eb6201fed519d272
+    projectPath: Temp\UnityTempFile-5acefc2f5c019744eb6201fed519d272
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-5f6d5d319175d3240ba2ea0888501eec
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-5f6d5d319175d3240ba2ea0888501eec
+    projectPath: Temp\UnityTempFile-5f6d5d319175d3240ba2ea0888501eec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-62beaa77d320e894dafd9e072ff271e4
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-62beaa77d320e894dafd9e072ff271e4
+    projectPath: Temp\UnityTempFile-62beaa77d320e894dafd9e072ff271e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-635fa0319c258d0429fa9d8ef6a3a457
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-635fa0319c258d0429fa9d8ef6a3a457
+    projectPath: Temp\UnityTempFile-635fa0319c258d0429fa9d8ef6a3a457
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-65759e5c07701b74dbcb782287c44c39
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-65759e5c07701b74dbcb782287c44c39
+    projectPath: Temp\UnityTempFile-65759e5c07701b74dbcb782287c44c39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-677dd998a473a2a4782aa77965541b09
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-677dd998a473a2a4782aa77965541b09
+    projectPath: Temp\UnityTempFile-677dd998a473a2a4782aa77965541b09
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-67fca8a10d85b1a4abf1b38983ae9c10
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-67fca8a10d85b1a4abf1b38983ae9c10
+    projectPath: Temp\UnityTempFile-67fca8a10d85b1a4abf1b38983ae9c10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-6d70cd1e87265174fbc062d952a7c172
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-6d70cd1e87265174fbc062d952a7c172
+    projectPath: Temp\UnityTempFile-6d70cd1e87265174fbc062d952a7c172
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-6f0afd2085d56bc40bc0e6f1ded5ea83
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-6f0afd2085d56bc40bc0e6f1ded5ea83
+    projectPath: Temp\UnityTempFile-6f0afd2085d56bc40bc0e6f1ded5ea83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-6f560e37e93056941a03eb76bb4db67a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-6f560e37e93056941a03eb76bb4db67a
+    projectPath: Temp\UnityTempFile-6f560e37e93056941a03eb76bb4db67a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-7e9d2d7cdb4b7344694a296787be481a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-7e9d2d7cdb4b7344694a296787be481a
+    projectPath: Temp\UnityTempFile-7e9d2d7cdb4b7344694a296787be481a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-7f17201b51b3cd843a038cd8d39b9312
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-7f17201b51b3cd843a038cd8d39b9312
+    projectPath: Temp\UnityTempFile-7f17201b51b3cd843a038cd8d39b9312
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-8527207e2f38b534c826bdcad5f77411
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-8527207e2f38b534c826bdcad5f77411
+    projectPath: Temp\UnityTempFile-8527207e2f38b534c826bdcad5f77411
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-856e13f527f1bc64f8947403d144837f
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-856e13f527f1bc64f8947403d144837f
+    projectPath: Temp\UnityTempFile-856e13f527f1bc64f8947403d144837f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-87702bf7e253c8f43aa17080a2704818
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-87702bf7e253c8f43aa17080a2704818
+    projectPath: Temp\UnityTempFile-87702bf7e253c8f43aa17080a2704818
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-8a25b99156ee6a9409a585469dc00f06
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-8a25b99156ee6a9409a585469dc00f06
+    projectPath: Temp\UnityTempFile-8a25b99156ee6a9409a585469dc00f06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-90023bc971f43ad4fbcf27157159bf2d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-90023bc971f43ad4fbcf27157159bf2d
+    projectPath: Temp\UnityTempFile-90023bc971f43ad4fbcf27157159bf2d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-90556ceea9267184c8e535570b135309
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-90556ceea9267184c8e535570b135309
+    projectPath: Temp\UnityTempFile-90556ceea9267184c8e535570b135309
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-91f9f49998362404cbc5f13e622a6578
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-91f9f49998362404cbc5f13e622a6578
+    projectPath: Temp\UnityTempFile-91f9f49998362404cbc5f13e622a6578
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-92cb02f5cf19e9246b5b648937b2e5ad
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-92cb02f5cf19e9246b5b648937b2e5ad
+    projectPath: Temp\UnityTempFile-92cb02f5cf19e9246b5b648937b2e5ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-9304b7911608b264b893c8d909652641
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-9304b7911608b264b893c8d909652641
+    projectPath: Temp\UnityTempFile-9304b7911608b264b893c8d909652641
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-97191c192f783a54da8955be9ce7c446
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-97191c192f783a54da8955be9ce7c446
+    projectPath: Temp\UnityTempFile-97191c192f783a54da8955be9ce7c446
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-99e652a4df934a140a0bd8f6e92756fd
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-99e652a4df934a140a0bd8f6e92756fd
+    projectPath: Temp\UnityTempFile-99e652a4df934a140a0bd8f6e92756fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-9a3320e65a2fbd84ab646a7f4bf11968
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-9a3320e65a2fbd84ab646a7f4bf11968
+    projectPath: Temp\UnityTempFile-9a3320e65a2fbd84ab646a7f4bf11968
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-a54ee55d40692cd4aa2f6621b6a7447d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-a54ee55d40692cd4aa2f6621b6a7447d
+    projectPath: Temp\UnityTempFile-a54ee55d40692cd4aa2f6621b6a7447d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-a8bf3d0cfd9057c408702e1412e7a9fc
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-a8bf3d0cfd9057c408702e1412e7a9fc
+    projectPath: Temp\UnityTempFile-a8bf3d0cfd9057c408702e1412e7a9fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ad1ff65fe51611a4bb44dfca89bae8fa
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ad1ff65fe51611a4bb44dfca89bae8fa
+    projectPath: Temp\UnityTempFile-ad1ff65fe51611a4bb44dfca89bae8fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ae8484c0e04c02f46860da38908fb254
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ae8484c0e04c02f46860da38908fb254
+    projectPath: Temp\UnityTempFile-ae8484c0e04c02f46860da38908fb254
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-b3a08953f6fb7e646b5fd74644015777
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-b3a08953f6fb7e646b5fd74644015777
+    projectPath: Temp\UnityTempFile-b3a08953f6fb7e646b5fd74644015777
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-b8a3fa70ba45bc54c87bf5a4b27bb16a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-b8a3fa70ba45bc54c87bf5a4b27bb16a
+    projectPath: Temp\UnityTempFile-b8a3fa70ba45bc54c87bf5a4b27bb16a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-b94f219027485594f90efb641f3d9e85
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-b94f219027485594f90efb641f3d9e85
+    projectPath: Temp\UnityTempFile-b94f219027485594f90efb641f3d9e85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-c17803657b9eced4881ab73f6a49cbdb
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-c17803657b9eced4881ab73f6a49cbdb
+    projectPath: Temp\UnityTempFile-c17803657b9eced4881ab73f6a49cbdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-c44a3d833a81cda4393862d75da4a177
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-c44a3d833a81cda4393862d75da4a177
+    projectPath: Temp\UnityTempFile-c44a3d833a81cda4393862d75da4a177
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-c45276fad126e9b44b8ae23599df1d84
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-c45276fad126e9b44b8ae23599df1d84
+    projectPath: Temp\UnityTempFile-c45276fad126e9b44b8ae23599df1d84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-c78a15db09c3264438e4ea014c49c69b
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-c78a15db09c3264438e4ea014c49c69b
+    projectPath: Temp\UnityTempFile-c78a15db09c3264438e4ea014c49c69b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-c8893cc5016b3b44b90f1d9c82ce950e
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-c8893cc5016b3b44b90f1d9c82ce950e
+    projectPath: Temp\UnityTempFile-c8893cc5016b3b44b90f1d9c82ce950e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ca868cb55b0129843b6359d2ce76a3d0
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ca868cb55b0129843b6359d2ce76a3d0
+    projectPath: Temp\UnityTempFile-ca868cb55b0129843b6359d2ce76a3d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-cdc9cba7be09a4c4893b0750fc52f3f2
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-cdc9cba7be09a4c4893b0750fc52f3f2
+    projectPath: Temp\UnityTempFile-cdc9cba7be09a4c4893b0750fc52f3f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-cdcceb8a1069d6a459b71840f07fe3d5
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-cdcceb8a1069d6a459b71840f07fe3d5
+    projectPath: Temp\UnityTempFile-cdcceb8a1069d6a459b71840f07fe3d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ce583177ca09c224ab330b4a3733b586
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ce583177ca09c224ab330b4a3733b586
+    projectPath: Temp\UnityTempFile-ce583177ca09c224ab330b4a3733b586
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-cf547874a9b76c04ea8a59c100d0a733
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-cf547874a9b76c04ea8a59c100d0a733
+    projectPath: Temp\UnityTempFile-cf547874a9b76c04ea8a59c100d0a733
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-cf9272ec871e2b1478a49083cdb3ca12
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-cf9272ec871e2b1478a49083cdb3ca12
+    projectPath: Temp\UnityTempFile-cf9272ec871e2b1478a49083cdb3ca12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d0f58c66da5c4f54eaea1333893f1c28
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d0f58c66da5c4f54eaea1333893f1c28
+    projectPath: Temp\UnityTempFile-d0f58c66da5c4f54eaea1333893f1c28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d41327725cfe2a841a5c622b048978e9
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d41327725cfe2a841a5c622b048978e9
+    projectPath: Temp\UnityTempFile-d41327725cfe2a841a5c622b048978e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d74929219ab63034d8ebc11447a6df06
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d74929219ab63034d8ebc11447a6df06
+    projectPath: Temp\UnityTempFile-d74929219ab63034d8ebc11447a6df06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d957d4be6faa80749a82af5c6c5186a7
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d957d4be6faa80749a82af5c6c5186a7
+    projectPath: Temp\UnityTempFile-d957d4be6faa80749a82af5c6c5186a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d979a69168e4eec4685ac02f4147485a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d979a69168e4eec4685ac02f4147485a
+    projectPath: Temp\UnityTempFile-d979a69168e4eec4685ac02f4147485a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d9aa88ee3086d144786eb0d119136e4d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-d9aa88ee3086d144786eb0d119136e4d
+    projectPath: Temp\UnityTempFile-d9aa88ee3086d144786eb0d119136e4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-dee7de73e3e25ba47b107431e60d4e5d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-dee7de73e3e25ba47b107431e60d4e5d
+    projectPath: Temp\UnityTempFile-dee7de73e3e25ba47b107431e60d4e5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-df3d34b0b585d3442a17e3c98da730b9
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-df3d34b0b585d3442a17e3c98da730b9
+    projectPath: Temp\UnityTempFile-df3d34b0b585d3442a17e3c98da730b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-e07846f842338944b978ef45b7848ac0
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-e07846f842338944b978ef45b7848ac0
+    projectPath: Temp\UnityTempFile-e07846f842338944b978ef45b7848ac0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-e343f964b0baf474595a14553e78346e
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-e343f964b0baf474595a14553e78346e
+    projectPath: Temp\UnityTempFile-e343f964b0baf474595a14553e78346e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-e6940945cc05c9847877d2e653d1f77a
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-e6940945cc05c9847877d2e653d1f77a
+    projectPath: Temp\UnityTempFile-e6940945cc05c9847877d2e653d1f77a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-e7526e61a1fccf04ba63123f277aebbf
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-e7526e61a1fccf04ba63123f277aebbf
+    projectPath: Temp\UnityTempFile-e7526e61a1fccf04ba63123f277aebbf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ea2f88d8a2dc19d4584b2bde7f034721
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ea2f88d8a2dc19d4584b2bde7f034721
+    projectPath: Temp\UnityTempFile-ea2f88d8a2dc19d4584b2bde7f034721
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-eef2457cf0b8a7e4ebf3c564f43a109b
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-eef2457cf0b8a7e4ebf3c564f43a109b
+    projectPath: Temp\UnityTempFile-eef2457cf0b8a7e4ebf3c564f43a109b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ef692b538a2fe4943b6c973ed787179d
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ef692b538a2fe4943b6c973ed787179d
+    projectPath: Temp\UnityTempFile-ef692b538a2fe4943b6c973ed787179d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f452eb5219654394eb354a60e2e9f0a0
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-f452eb5219654394eb354a60e2e9f0a0
+    projectPath: Temp\UnityTempFile-f452eb5219654394eb354a60e2e9f0a0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f4de7b18cbbb08f428af2d4de81b63be
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-f4de7b18cbbb08f428af2d4de81b63be
+    projectPath: Temp\UnityTempFile-f4de7b18cbbb08f428af2d4de81b63be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f8257c712513cb34d9020ac43b69e2c3
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-f8257c712513cb34d9020ac43b69e2c3
+    projectPath: Temp\UnityTempFile-f8257c712513cb34d9020ac43b69e2c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f891cf48bd525e140a5fc041816e74dd
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-f891cf48bd525e140a5fc041816e74dd
+    projectPath: Temp\UnityTempFile-f891cf48bd525e140a5fc041816e74dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-f99f355a55117234d8caf8a016d1cb32
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-f99f355a55117234d8caf8a016d1cb32
+    projectPath: Temp\UnityTempFile-f99f355a55117234d8caf8a016d1cb32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-fd5353a72291a0343b21b183b90414c8
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-fd5353a72291a0343b21b183b90414c8
+    projectPath: Temp\UnityTempFile-fd5353a72291a0343b21b183b90414c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ff9bcf94c5afb0545870096b631ab9a3
+    fullPath: C:\Users\vanha\Unity Projects\VR_test_scenario\Temp\UnityTempFile-ff9bcf94c5afb0545870096b631ab9a3
+    projectPath: Temp\UnityTempFile-ff9bcf94c5afb0545870096b631ab9a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
